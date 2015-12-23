@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/../doubly-linked List/.idea/untitled1.iml" filepath="$PROJECT_DIR$/../doubly-linked List/.idea/untitled1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/doubly-Linked List.iml" filepath="$PROJECT_DIR$/.idea/doubly-Linked List.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/untitled1.iml" filepath="$PROJECT_DIR$/.idea/untitled1.iml" />
     </modules>
   </component>
 </project>

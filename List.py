@@ -1,4 +1,4 @@
-import Node
+from Node import Node
 class List(object):
     def __init__(self, head):
         self.length = 0
